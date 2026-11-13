@@ -2,14 +2,12 @@
 
 一份面向中文用户的开源 AI 工具清单：按使用场景分类，只收录**仍然存在、且在 2026 年仍有提交**的项目。
 
-- 建议仓库名：`awesome-ai-tools-zh`
-- 本 README 为草稿，**尚未创建 GitHub 仓库，也未推送任何内容**
 - 核查时间：2026-11-13（America/Los_Angeles）
 - 核查方式：使用已连接的 GitHub 账号，通过官方仓库接口读取 `full_name`、`archived`、`pushed_at`、`stargazers_count` 和简介
 - 收录标准：公开仓库、未被 archive、2026 年内有过推送；优先选仍在维护的实用工具，不收录明显刷星、已停止维护或无法核实的项目
 - Star 数会变，下表数字以核查当日接口为准，仅作量级参考
 
-**每日更新：** 计划随日常资讯稿同步增补或淘汰项目（例如连续数月无实质提交、迁址或 archive 时移出）。创建仓库后，再把这条写成真实的更新日志。
+**每日更新：** 随日常资讯同步增补或淘汰项目（连续数月无实质提交、迁址或 archive 的项目会移出）。
 
 **每日 AI 资讯：小方ai资讯 https://www.aizc.club/blog**
 
@@ -151,4 +149,6 @@
 - `FlowiseAI/Flowise` 在检索结果中显示 **archived**，不收录。
 - 部分 2026 年新出现的超高 Star「agent harness」仓库存在刷星风险，即使数字很高也未收入。
 
-创建仓库前请再跑一遍接口核对迁址和归档状态。README 底部的站点链接保持为 https://www.aizc.club/blog 即可，不要加价格或推广话术。
+---
+
+更多每日 AI 资讯见「小方ai资讯（AI直冲）」：https://www.aizc.club/blog
