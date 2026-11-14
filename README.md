@@ -31,6 +31,8 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 开源的 AI 软件开发助手，适合较完整的改项目流程。
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) — 开源、可扩展的 AI 助手，除补全外也能安装、执行、修改和测试；接口查询时由旧地址 `block/goose` 转到此仓库。
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) — 让 AI 代理操作浏览器的开源 Python 库。
+- [openai/codex-security](https://github.com/openai/codex-security) — OpenAI 开源的代码安全扫描 CLI 与 TypeScript SDK，可扫描仓库、验证漏洞、生成补丁和 SECURITY.md。
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Chrome 团队维护的编码 Agent 技能包，让 AI 写前端时优先用现代 Web 原生能力。
 
 ## Agent 框架
 
