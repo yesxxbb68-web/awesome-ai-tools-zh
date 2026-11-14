@@ -9,7 +9,17 @@
 
 **每日更新：** 随日常资讯同步增补或淘汰项目（连续数月无实质提交、迁址或 archive 的项目会移出）。
 
-**每日 AI 资讯：小方ai资讯 https://www.aizc.club/blog**
+**每日 AI 资讯：「财宝ai资讯（AI直冲）」https://www.aizc.club/blog**
+
+本站近期教程：
+
+- [ChatGPT Go 和 Plus 怎么选？按使用场景看差别](https://www.aizc.club/blog/chatgpt-go-vs-plus)
+- [Claude Pro 和 Max 适合谁？前端开发能力和封号风险](https://www.aizc.club/blog/claude-pro-vs-max-frontend)
+- [VPS 和家宽 IP 怎么用？从连接到排查的入门指南](https://www.aizc.club/blog/vps-and-residential-ip-guide)
+
+
+
+
 
 ---
 
@@ -153,4 +163,4 @@
 
 ---
 
-更多每日 AI 资讯见「小方ai资讯（AI直冲）」：https://www.aizc.club/blog
+更多每日 AI 资讯见「财宝ai资讯（AI直冲）」：https://www.aizc.club/blog
