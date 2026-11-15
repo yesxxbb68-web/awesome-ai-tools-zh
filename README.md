@@ -39,6 +39,8 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) — 让 AI 代理操作浏览器的开源 Python 库。
 - [openai/codex-security](https://github.com/openai/codex-security) — OpenAI 开源的代码安全扫描 CLI 与 TypeScript SDK，可扫描仓库、验证漏洞、生成补丁和 SECURITY.md。
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Chrome 团队维护的编码 Agent 技能包，让 AI 写前端时优先用现代 Web 原生能力。
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 阿里开源的 AI 代码审查工具：读 Git diff，用可配置大模型给出行级评审，也可委托给 Claude Code、Codex 等宿主 Agent。
+  - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — 本地浏览器审阅界面：批注编程 Agent 的计划、diff/PR 和文档，一键把反馈发回 Agent。
 
 ## Agent 框架
 
@@ -148,8 +150,10 @@
 | microsoft/markitdown | 195158 | 2026-11-07 | 是 |
 | firecrawl/firecrawl | 201370 | 2026-11-13 | 是 |
 | unclecode/crawl4ai | 87299 | 2026-11-12 | 是 |
+| alibaba/open-code-review | 51444 | 2026-11-14 | 是 |
+| backnotprop/plannotator | 11134 | 2026-11-15 | 是 |
 
-共 44 个仓库。
+共 46 个仓库。今日（2026-11-15）增补 open-code-review、plannotator；其余行的星数仍以 2026-11-13 核查为准。
 
 未列入的例子（避免把不活跃或未核实项目写进清单）：
 
