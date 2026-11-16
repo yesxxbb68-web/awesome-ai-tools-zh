@@ -41,6 +41,8 @@
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — Chrome 团队维护的编码 Agent 技能包，让 AI 写前端时优先用现代 Web 原生能力。
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 阿里开源的 AI 代码审查工具：读 Git diff，用可配置大模型给出行级评审，也可委托给 Claude Code、Codex 等宿主 Agent。
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — 本地浏览器审阅界面：批注编程 Agent 的计划、diff/PR 和文档，一键把反馈发回 Agent。
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome 官方 MCP 服务器和 CLI：让 Claude Code、Cursor、Codex 等编程 Agent 控制真实 Chrome，读控制台、抓网络请求、截图、录性能 trace。
+- [Tencent/LoopForge](https://github.com/Tencent/LoopForge) — 腾讯开源的自托管编程 Agent 交付工作台：在 Docker 沙箱里调度 Claude Code、Codex 等多种 CLI，按 SOP 交付 PR，关键节点人工审批。
 
 ## Agent 框架
 
