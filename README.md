@@ -53,6 +53,7 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — OpenAI 官方的轻量多代理工作流框架。
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — 以 Pydantic 类型为基础的 Python AI 智能体框架。
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) — Hugging Face 的轻量智能体库，强调用代码完成推理步骤。
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — 英伟达开源的 Agent Skill 评测框架：可先做无需 API Key 的静态质量检查，再按需做去重和带沙箱的实测。
 
 ## 本地大模型
 
@@ -101,6 +102,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — 把 Office 文档、PDF 等转换成 Markdown 的 Python 工具。
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 把网页转成可供 LLM 使用的结构化数据。
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — 面向 AI 的网页抓取与内容提取工具。
+- [dream-num/univer](https://github.com/dream-num/univer) — Apache-2.0 的开源 Office SDK：把表格/文档嵌进自己的产品，Facade API 可供应用或 Agent 读写单元格并读取公式重算结果。
 
 ---
 
