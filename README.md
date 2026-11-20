@@ -43,6 +43,9 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — 本地浏览器审阅界面：批注编程 Agent 的计划、diff/PR 和文档，一键把反馈发回 Agent。
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome 官方 MCP 服务器和 CLI：让 Claude Code、Cursor、Codex 等编程 Agent 控制真实 Chrome，读控制台、抓网络请求、截图、录性能 trace。
 - [Tencent/LoopForge](https://github.com/Tencent/LoopForge) — 腾讯开源的自托管编程 Agent 交付工作台：在 Docker 沙箱里调度 Claude Code、Codex 等多种 CLI，按 SOP 交付 PR，关键节点人工审批。
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 配合 Stitch MCP 的 Agent Skills，可在 Claude Code、Cursor、Antigravity、Gemini CLI 等助手里生成和落地界面。
+- [cursor/plugins](https://github.com/cursor/plugins) — Cursor 官方插件规范与正式插件仓库，可在 Customize / Marketplace 安装。
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 给编程智能体用的编辑级示意图技能，可从自然语言或 draw.io / Mermaid 等源文件出图。
 
 ## Agent 框架
 
@@ -54,6 +57,7 @@
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — 以 Pydantic 类型为基础的 Python AI 智能体框架。
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) — Hugging Face 的轻量智能体库，强调用代码完成推理步骤。
 - [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — 英伟达开源的 Agent Skill 评测框架：可先做无需 API Key 的静态质量检查，再按需做去重和带沙箱的实测。
+- [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) — Google Cloud AI Research 开源的多智能体框架：把研究想法和实验记录整理成可投稿的 LaTeX 论文。
 
 ## 本地大模型
 
@@ -63,6 +67,7 @@
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) — 面向大语言模型和多模态模型的高性能服务框架。
 - [huggingface/transformers](https://github.com/huggingface/transformers) — Hugging Face 的模型定义与调用框架，覆盖大量主流模型。
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) — 侧重本地运行与训练大模型、扩散模型的工具（含 GGUF 等格式支持）。
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) — 从零训练约 64M 超小语言模型，官方称单卡 3090 约 2 小时量级可复现。
 
 ## RAG / 知识库
 
@@ -158,6 +163,20 @@
 | backnotprop/plannotator | 11134 | 2026-11-15 | 是 |
 
 共 46 个仓库。今日（2026-11-15）增补 open-code-review、plannotator；其余行的星数仍以 2026-11-13 核查为准。
+
+今日（2026-11-19）再增补 `google-research/paper-orchestra`（Agent 框架）、`google-labs-code/stitch-skills`（编程助手）。星数以北京时间 2026-11-19 07:05 GitHub API 为准：PaperOrchestra 4,226（当日 Trending +1,529），Stitch Skills 10,381（当日 Trending +369）。其余行的星数仍以 2026-11-13 核查为准。
+
+今日（2026-11-20）在上述 2 项仍未提交的前提下，一并写入清单，并再增补 `cursor/plugins`、`cathrynlavery/diagram-design`（编程助手）和 `jingyaogong/minimind`（本地大模型）。今日 3 项星数以北京时间 2026-11-20 07:03 GitHub API 为准；昨日 2 项星数仍用 11-19 07:05 的数字，未用次日接口回写。历史表中其余行的星数仍以 2026-11-13 核查为准。
+
+| 仓库 | 约略 Star | 当日 Trending | 最近推送（GitHub UTC） | 许可证 | 星数核查时间（北京） |
+| --- | ---: | ---: | --- | --- | --- |
+| google-labs-code/stitch-skills | 10381 | +369 | 2026-11-18 | — | 2026-11-19 07:05 |
+| google-research/paper-orchestra | 4226 | +1529 | 2026-11-15 | — | 2026-11-19 07:05 |
+| cursor/plugins | 17537 | +383 | 2026-11-19T22:12:08Z | API 字段为 null；README 写 MIT | 2026-11-20 07:03 |
+| jingyaogong/minimind | 66827 | +301 | 2026-11-18T15:09:40Z | Apache-2.0 | 2026-11-20 07:03 |
+| cathrynlavery/diagram-design | 68599 | +402 | 2026-11-19T00:17:05Z | MIT | 2026-11-20 07:03 |
+
+`cathrynlavery/diagram-design` 总星数较高（约 6.86 万，2026-04-16 创建），仍予收录，是因为官方 README 的安装和出图路径清楚，且许可证为 MIT。清单正文不写入星数。
 
 未列入的例子（避免把不活跃或未核实项目写进清单）：
 
