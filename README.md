@@ -46,6 +46,7 @@
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 配合 Stitch MCP 的 Agent Skills，可在 Claude Code、Cursor、Antigravity、Gemini CLI 等助手里生成和落地界面。
 - [cursor/plugins](https://github.com/cursor/plugins) — Cursor 官方插件规范与正式插件仓库，可在 Customize / Marketplace 安装。
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — 给编程智能体用的编辑级示意图技能，可从自然语言或 draw.io / Mermaid 等源文件出图。
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) — 开源 CI/CD 可靠性代理，读取失败构建并给出供审查的修复；目前为 Public Alpha。
 
 ## Agent 框架
 
@@ -88,6 +89,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 节点式本地扩散模型工作台，图像与视频工作流都很常见；当前官方仓库在 `Comfy-Org` 下。
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) — Hugging Face 的扩散模型库，支持图像、视频和音频生成。
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — 把 PDF 和图片转成结构化文字的 OCR 工具箱。最近一次推送在 2026-09（核查时仍未 archive）。
+- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) — 开源 AI 视频剪辑桌面工具，可贴链接在本地生成短视频、字幕、封面和发布文案。
 
 本分类目前偏图像与文档；本次未把尚未单独核验的视频生成仓库写进来，避免列入无法确认状态的项目。
 
@@ -177,6 +179,8 @@
 | cathrynlavery/diagram-design | 68599 | +402 | 2026-11-19T00:17:05Z | MIT | 2026-11-20 07:03 |
 
 `cathrynlavery/diagram-design` 总星数较高（约 6.86 万，2026-04-16 创建），仍予收录，是因为官方 README 的安装和出图路径清楚，且许可证为 MIT。清单正文不写入星数。
+
+今日（2026-11-21）增补 Tracer-Cloud/opensre（编程助手）和 zhouxiaoka/autoclip（图像 / 视频）。星数以北京时间 2026-11-21 07:08 GitHub API 为准：OpenSRE 13,580（当日 Trending +465，标题向下取整为 460），AutoClip 12,144（当日 Trending 约 +983，标题向下取整为 980）。历史表中其余行的星数仍以原先核查日为准。
 
 未列入的例子（避免把不活跃或未核实项目写进清单）：
 
